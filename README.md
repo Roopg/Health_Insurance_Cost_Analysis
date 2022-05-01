@@ -1,2 +1,2 @@
-### health_Insurance_Cost_Analysis is a case study with an objective to analyze the relationship between the medical costs billed by the insurance company and various factors such as gender, BMI, smoking status, number of dependents, region and age of the insured population.
+#### health_Insurance_Cost_Analysis is a case study with an objective to analyze the relationship between the medical costs billed by the insurance company and various factors such as gender, BMI, smoking status, number of dependents, region and age of the insured population.
 The study includes exploratory data analysis (EDA) of the dataset and statistical hypothesis testing using t-tests, Chi-Square tests and ANOVA tests. 
